@@ -1,6 +1,6 @@
 # Hey, I'm Felippe! 👋
 
-**Software Engineering Student | Aspiring Developer**
+**Software Engineering Student 
 
 ---
 
@@ -21,17 +21,7 @@
 - 🎓 Software Engineering student
 - 💻 Interested in Backend Development
 - 🌱 Constantly learning and improving my programming skills
-- 🔨 Building projects to develop practical experience
-- 🎯 Focused on becoming a better software developer
-
----
-
-## 📂 Featured Project
-
-### [Sistema de Gestão de Serviços](https://github.com/lxppe/sistema-de-gestao-de-servicos)
-
-A desktop application developed with Python, CustomTkinter and SQLite to manage clients and service orders.
-
+- 
 ---
 
 ## 🌐 Connect with me
