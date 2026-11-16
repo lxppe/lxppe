@@ -1,6 +1,6 @@
 # Hey, I'm Felippe! 👋
 
-**Software Engineering Student 
+**Software Engineering Student**
 
 ---
 
